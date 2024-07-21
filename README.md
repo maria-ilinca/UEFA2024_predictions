@@ -22,7 +22,9 @@ The task implementation was divided into 3 parts: data extraction & processing, 
 I added more relevant features for score prediction:
 
 -> Home/Away Team: marking which team is home and which is away.
+
 -> Recent Form and Results: calculating average scores and results over the last 7 matches, excluding the current match.
+
 -> Home/Away Performance: computong and merging the average performance of teams when playing at home or away.
 
 ### Models
