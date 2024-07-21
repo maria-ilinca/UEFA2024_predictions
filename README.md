@@ -43,5 +43,5 @@ I added more relevant features for score prediction:
 - numpy
 - scikit-learn
 ## Generate predictions
-To generate predictions for the matches in prediction.txt, the notebook taskml should be ran.
+To generate predictions for the matches in predictions.txt, the notebook taskml should be ran.
 
