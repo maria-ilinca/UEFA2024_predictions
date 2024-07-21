@@ -33,3 +33,6 @@ I added more relevant features for score prediction:
 - Model evaluation was done using a fraction of the data (from train_test_split function) and accuracy as a metric.
 
 ### Generating predictions
+- The necessary features from the last matches of the teams were extracted.
+- Prepares a new DataFrame predict_df for predictions.
+- The data in predict_df will be used as input for the ridge regression machine learning model to predict the outcomes of these matches.
