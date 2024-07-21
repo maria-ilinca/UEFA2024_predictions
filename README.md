@@ -37,3 +37,11 @@ I added more relevant features for score prediction:
 - Prepares a new DataFrame predict_df for predictions.
 - The data in predict_df will be used as input for the ridge regression machine learning model to predict the outcomes of these matches.
 - Write predictions in a sepparate file: teams and match score.
+
+## Packages required
+- pandas
+- numpy
+- scikit-learn
+## Generate predictions
+To generate predictions for the matches in prediction.txt, the notebook taskml should be ran.
+
