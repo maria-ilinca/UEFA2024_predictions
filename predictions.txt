@@ -1,0 +1,49 @@
+Team1,Team2,Score1,Score2
+Russia,Saudi Arabia,1,2
+Egypt,Uruguay,1,1
+Morocco,IR Iran,1,1
+Portugal,Spain,3,1
+France,Australia,2,1
+Argentina,Iceland,2,2
+Peru,Denmark,2,1
+Croatia,Nigeria,2,1
+Costa Rica,Serbia,1,1
+Germany,Mexico,4,1
+Brazil,Switzerland,7,1
+Sweden,Korea Republic,2,1
+Belgium,Panama,4,1
+Tunisia,England,1,1
+Colombia,Japan,2,1
+Poland,Senegal,2,1
+Russia,Egypt,1,1
+Portugal,Morocco,3,1
+Uruguay,Saudi Arabia,3,2
+IR Iran,Spain,2,1
+Denmark,Australia,2,1
+France,Peru,3,0
+Argentina,Croatia,2,1
+Brazil,Costa Rica,6,1
+Nigeria,Iceland,1,1
+Serbia,Switzerland,2,1
+Belgium,Tunisia,3,1
+Korea Republic,Mexico,1,1
+Germany,Sweden,4,1
+England,Panama,2,1
+Japan,Senegal,2,1
+Poland,Colombia,0,1
+Saudi Arabia,Egypt,1,1
+Uruguay,Russia,3,0
+IR Iran,Portugal,2,1
+Spain,Morocco,4,0
+Australia,Peru,2,1
+Denmark,France,1,1
+Iceland,Croatia,1,1
+Nigeria,Argentina,1,2
+Korea Republic,Germany,-1,2
+Mexico,Sweden,1,1
+Switzerland,Costa Rica,2,1
+Serbia,Brazil,2,2
+Japan,Poland,2,2
+Senegal,Colombia,0,1
+England,Belgium,2,2
+Panama,Tunisia,1,1

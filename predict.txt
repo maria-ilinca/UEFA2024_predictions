@@ -1,0 +1,48 @@
+Russia,Saudi Arabia
+Egypt,Uruguay
+Morocco,IR Iran
+Portugal,Spain
+France,Australia
+Argentina,Iceland
+Peru,Denmark
+Croatia,Nigeria
+Costa Rica,Serbia
+Germany,Mexico
+Brazil,Switzerland
+Sweden,Korea Republic
+Belgium,Panama
+Tunisia,England
+Colombia,Japan
+Poland,Senegal
+Russia,Egypt
+Portugal,Morocco
+Uruguay,Saudi Arabia
+IR Iran,Spain
+Denmark,Australia
+France,Peru
+Argentina,Croatia
+Brazil,Costa Rica
+Nigeria,Iceland
+Serbia,Switzerland
+Belgium,Tunisia
+Korea Republic,Mexico
+Germany,Sweden
+England,Panama
+Japan,Senegal
+Poland,Colombia
+Saudi Arabia,Egypt
+Uruguay,Russia
+IR Iran,Portugal
+Spain,Morocco
+Australia,Peru
+Denmark,France
+Iceland,Croatia
+Nigeria,Argentina
+Korea Republic,Germany
+Mexico,Sweden
+Switzerland,Costa Rica
+Serbia,Brazil
+Japan,Poland
+Senegal,Colombia
+England,Belgium
+Panama,Tunisia
